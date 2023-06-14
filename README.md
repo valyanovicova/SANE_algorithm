@@ -5,6 +5,8 @@ NeuroEvolutianory Calculations
 
 ---
 Данный репозиторий содержит файлы, написанные на языке программирования **Python**.
+
+
 Используемые библиотеки: **numpy, random, typing, os, matplotlib, time**.
 
 ## **Об алгоритме**
