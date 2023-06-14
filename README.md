@@ -11,7 +11,7 @@ NeuroEvolutianory Calculations
 
 ## **Об алгоритме**
 
-Подробнее прочитать об алгоритме SANE (Symbiotic Adaptive NeuroEvolution) можно в лекии по [ссылке](https://drive.google.com/file/d/1HXiLb1Hcccm0W0grmyUgtJjuodBXXWWK/view?usp=drive_link).
+Подробнее об алгоритме SANE (Symbiotic Adaptive NeuroEvolution) можно в лекии по [ссылке](https://drive.google.com/file/d/1HXiLb1Hcccm0W0grmyUgtJjuodBXXWWK/view?usp=drive_link).
 
 ---
 ## **Запуск программы**
