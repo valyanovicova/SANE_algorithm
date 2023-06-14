@@ -1,7 +1,7 @@
 # SANE_algorithm
 NeuroEvolutianory Calculations
 
-## Данная работа выполнена в рамках дисциплины "Нейроэволюционные вычисления" по направлению 09.04.01 "Информатика и вычислительная техника" в Национальном исследовательском Томском Политехническом Университете.
+Данная работа выполнена в рамках дисциплины "Нейроэволюционные вычисления" по направлению 09.04.01 "Информатика и вычислительная техника" в Национальном исследовательском Томском Политехническом Университете.
 
 ---
 Данный репозиторий содержит файлы, написанные на языке программирования **Python**.
@@ -9,7 +9,7 @@ NeuroEvolutianory Calculations
 
 ## **Об алгоритме**
 
-Подробнее прочитать об алгоритме SANE (Symbiotic Adaptive NeuroEvolution) можно в лекии по [ссылке](https://drive.google.com/drive/folders/0BxyNF54xzxbifkR4c29LdmpHMVBXZzJ5dGhyZjJ4Unp5OFJKSHJxaTBMN3VnekFQMWgySEU?resourcekey=0-4odvVlqWp2C1p2aV_UDCRg).
+Подробнее прочитать об алгоритме SANE (Symbiotic Adaptive NeuroEvolution) можно в лекии по [ссылке]([https://drive.google.com/drive/folders/0BxyNF54xzxbifkR4c29LdmpHMVBXZzJ5dGhyZjJ4Unp5OFJKSHJxaTBMN3VnekFQMWgySEU?resourcekey=0-4odvVlqWp2C1p2aV_UDCRg](https://drive.google.com/drive/u/0/folders/1fAImPycEZGuDVVU2Hgz8a39Z882SxXDX)).
 
 ---
 ## **Запуск программы**
